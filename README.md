@@ -1,0 +1,1 @@
+# Remove all wordpress thumbnails
